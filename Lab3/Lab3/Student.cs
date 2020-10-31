@@ -66,4 +66,6 @@ namespace Lab3
             Console.WriteLine("Department: " + department);
 
         }
+
+    }
 }
